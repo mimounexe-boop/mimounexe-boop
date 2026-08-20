@@ -2,7 +2,7 @@
 <h3 align="left">Linux Enthusiast • Programmer • Cybersecurity Learner • Open Source</h3>
 
 <p align="left">
-  <a href="https://github.com/Mimounexe](https://github.com/mimounexe-boop/">
+  <a href="https://github.com/mimounexe-boop/">
     <img src="https://komarev.com/ghpvc/?username=Mimounexe" alt="Profile views" />
   </a>
   <a href="https://github.com/Mimounexe?tab=followers](https://github.com/mimounexe-boop">
