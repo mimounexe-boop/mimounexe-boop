@@ -5,8 +5,8 @@
   <a href="https://github.com/Mimounexe">
     <img src="https://komarev.com/ghpvc/?username=Mimounexe" alt="Profile views" />
   </a>
-  <a href="https://github.com/Mimounexe?tab=followers">
-    <img alt="GitHub followers" src="[https://img.shields.io/github/followers/Mimounexe?style=flat](https://github.com/mimounexe-boop)&logo=github" />
+  <a href="https://github.com/Mimounexe?tab=followers](https://github.com/mimounexe-boop">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mimounexe?style=flat&logo=githu&logo=github" />
   </a>
   <a href="https://www.instagram.com/mimoun.cr/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40mimoun.cr-E4405F?style=flat&logo=instagram&logoColor=white" />
