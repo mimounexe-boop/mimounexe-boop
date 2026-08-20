@@ -35,109 +35,22 @@
 
 <br>
 
-<h2 align="left" id="mimoun-tech">Languages & Technologies</h2>
-
-> Languages, tools, and technologies I'm learning and working with.
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      </a>
-      <br>Go
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="48" height="48" alt="Fedora" />
-      </a>
-      <br>Fedora
-    </td>
-
-    <td align="center" width="110">
-      <a href="#mimoun-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-<h2 align="left">🛠️ Development Tools</h2>
+<h2 align="left" id="mimoun-languages">💻 Programming Languages</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GCC-Compiler-444444?style=for-the-badge" alt="GCC" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</p>
 <h2 align="left">🐧 Linux & Fedora</h2>
 
 > Linux is one of my main interests, especially Fedora and the Linux ecosystem.
