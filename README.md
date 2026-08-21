@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-08-21-c75ed8c0-ccdd-40de-a1d3-e8a0dd27e01a.png" width="100%" alt="Mimoun banner"/>
+  <img src="https://github.com/user-attachments/assets/e87e229b-28ea-4c84-b4d3-403b20d42549" width="100%" alt="Mimoun banner"/>
 </p>
 <h3 align="left">Linux Enthusiast • Programmer • Cybersecurity Learner • Open Source</h3>
 
