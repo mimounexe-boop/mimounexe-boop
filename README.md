@@ -1,4 +1,4 @@
-<h1 align="left" id="mimoun-title">👋 Hello there! I'm Mimoun</h1>
+<img width="654" height="57" alt="image" src="https://github.com/user-attachments/assets/1814067e-a191-4775-b006-d44a5abb2108" />
 <h3 align="left">Linux Enthusiast • Programmer • Cybersecurity Learner • Open Source</h3>
 
 <p align="left">
