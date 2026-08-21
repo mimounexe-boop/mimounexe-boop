@@ -1,4 +1,6 @@
-<img width="654" height="57" alt="image" src="https://github.com/user-attachments/assets/1814067e-a191-4775-b006-d44a5abb2108" />
+<p align="center">
+  <img src="https://cdn.phototourl.com/free/2026-08-21-c75ed8c0-ccdd-40de-a1d3-e8a0dd27e01a.png" width="100%" alt="Mimoun banner"/>
+</p>
 <h3 align="left">Linux Enthusiast • Programmer • Cybersecurity Learner • Open Source</h3>
 
 <p align="left">
